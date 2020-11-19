@@ -1,0 +1,14 @@
+C:\Users\mutez\OneDrive - De Vinci\ANNEE_2\Semestre_2\Informatique\Projet-informatique\Projet\Pb_info_semestre_2\Pb_info_semestre_2\bin\Debug\Pb_info_semestre_2.exe.config
+C:\Users\mutez\OneDrive - De Vinci\ANNEE_2\Semestre_2\Informatique\Projet-informatique\Projet\Pb_info_semestre_2\Pb_info_semestre_2\bin\Debug\Pb_info_semestre_2.exe
+C:\Users\mutez\OneDrive - De Vinci\ANNEE_2\Semestre_2\Informatique\Projet-informatique\Projet\Pb_info_semestre_2\Pb_info_semestre_2\bin\Debug\Pb_info_semestre_2.pdb
+C:\Users\mutez\OneDrive - De Vinci\ANNEE_2\Semestre_2\Informatique\Projet-informatique\Projet\Pb_info_semestre_2\Pb_info_semestre_2\obj\Debug\Pb_info_semestre_2.csprojResolveAssemblyReference.cache
+C:\Users\mutez\OneDrive - De Vinci\ANNEE_2\Semestre_2\Informatique\Projet-informatique\Projet\Pb_info_semestre_2\Pb_info_semestre_2\obj\Debug\Pb_info_semestre_2.csproj.CoreCompileInputs.cache
+C:\Users\mutez\OneDrive - De Vinci\ANNEE_2\Semestre_2\Informatique\Projet-informatique\Projet\Pb_info_semestre_2\Pb_info_semestre_2\obj\Debug\Pb_info_semestre_2.exe
+C:\Users\mutez\OneDrive - De Vinci\ANNEE_2\Semestre_2\Informatique\Projet-informatique\Projet\Pb_info_semestre_2\Pb_info_semestre_2\obj\Debug\Pb_info_semestre_2.pdb
+C:\Users\Clement Mutez\OneDrive - De Vinci\ANNEE_2\Semestre_2\Informatique\Projet-informatique\Projet\Pb_info_semestre_2\Pb_info_semestre_2\bin\Debug\Pb_info_semestre_2.exe.config
+C:\Users\Clement Mutez\OneDrive - De Vinci\ANNEE_2\Semestre_2\Informatique\Projet-informatique\Projet\Pb_info_semestre_2\Pb_info_semestre_2\bin\Debug\Pb_info_semestre_2.exe
+C:\Users\Clement Mutez\OneDrive - De Vinci\ANNEE_2\Semestre_2\Informatique\Projet-informatique\Projet\Pb_info_semestre_2\Pb_info_semestre_2\bin\Debug\Pb_info_semestre_2.pdb
+C:\Users\Clement Mutez\OneDrive - De Vinci\ANNEE_2\Semestre_2\Informatique\Projet-informatique\Projet\Pb_info_semestre_2\Pb_info_semestre_2\obj\Debug\Pb_info_semestre_2.csprojAssemblyReference.cache
+C:\Users\Clement Mutez\OneDrive - De Vinci\ANNEE_2\Semestre_2\Informatique\Projet-informatique\Projet\Pb_info_semestre_2\Pb_info_semestre_2\obj\Debug\Pb_info_semestre_2.csproj.CoreCompileInputs.cache
+C:\Users\Clement Mutez\OneDrive - De Vinci\ANNEE_2\Semestre_2\Informatique\Projet-informatique\Projet\Pb_info_semestre_2\Pb_info_semestre_2\obj\Debug\Pb_info_semestre_2.exe
+C:\Users\Clement Mutez\OneDrive - De Vinci\ANNEE_2\Semestre_2\Informatique\Projet-informatique\Projet\Pb_info_semestre_2\Pb_info_semestre_2\obj\Debug\Pb_info_semestre_2.pdb
